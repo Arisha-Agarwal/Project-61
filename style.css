@@ -1,0 +1,142 @@
+body{
+  text-align:center;
+}
+#welcome{
+    background:linear-gradient(#75f505 0%, #f8fc03 100%);
+    height:700px;
+}
+#AboutMe{
+    background-color:lightpink;
+    height:750px;
+}
+#FavHobby{
+    background-color:lawngreen;
+    height:750px;
+}
+#FavPlace{
+    background-color:lavender;
+    height:750px;
+}
+#img1{
+  border-radius:50%;
+  height:150px;
+}
+.heading{
+   color:darkturquoise;
+   font-size:70px;
+  font-family: 'Indie Flower', cursive;
+   }
+.heading1{
+   color:darkorange;
+   font-size:70px;
+  font-family:cursive;
+   }
+#gif{
+    height:250px;
+    width:300px;
+}
+.line{
+  background-color:black;
+  width:100px;
+  height:10px;
+  margin: 8px auto;
+}
+.menu{
+   list-style:none;
+   font-family:cursive;
+   top:0px;
+   right:0px;
+cursor:pointer;
+    z-index:4;
+    margin-left:50px;
+    text-align:center;
+    position:sticky;
+    background-color:white;
+}
+.links{
+    float:left;
+    padding-top:5px;
+    padding-right:30px;
+    padding-bottom;:10px;
+    padding-left:30px;
+    font-family:monospace;
+    color:black;
+    font-size:20px;
+    background-color:white;
+    
+}
+.links:hover{
+    background-color:hotpink;
+}
+li{
+    display:inline;
+}
+html{
+    scroll-behavior:smooth;
+}
+.text{
+    color:black;
+    font-size:40px;
+    font-family: 'Boogaloo', cursive;
+}
+#quote{
+    color:purple;
+    font-size:55px;
+    text-align:center;
+    font-family: 'Pacifico', cursive;
+}
+#my{
+    font-size:80px;
+    color:cadetblue;
+    font-style:oblique;
+}
+#Work{
+    background-color:lightgreen;
+    height:600px;
+}
+#gif2{
+    height:250px;
+    width:300px;
+}
+#contact{
+    background-color:greenyellow;
+    height:1400px;
+}
+#ways{
+    font-size:80px;
+    color:black;
+    font-style:oblique;
+    font-weight:bold;
+}
+.la{
+    font-family:monospace;
+    color:darkblue;
+    font-size:50px;
+}
+#gif3{
+    height:300px;
+    width:300px;
+
+}
+#Inspiration{
+    height:750px;
+    background-color:darksalmon;
+}
+.ok{
+    width:500px;
+    height:500px;
+    margin-right:40px;
+    margin-left:40px;
+    transition: transform .2s;
+    border-style:solid;
+    border-width:15px;
+    padding:10px;
+    border-color:aqua;
+}
+.ok:hover{
+    transform: scale(0.8);
+}
+#map{
+    width:100%;
+    height:600px;
+}
